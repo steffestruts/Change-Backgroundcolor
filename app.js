@@ -1,7 +1,7 @@
 const button = document.getElementById('btnBackgroundColor');
 
-function red() {
+function color() {
   document.body.style.backgroundColor = "LightPink";
 };
 
-button.addEventListener("click", red);
+button.addEventListener("click", color);
